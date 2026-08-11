@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block main %}
+        <form action="" method="POST" novalidate>
+            {{ form.hidden_tag() }}
+            <p>{{ form.from_school_id.label }} <br> {{ form.from_school_id(size=5) }}</p>
+            <p>{{ form.to_school_id.label }} <br> {{ form.to_school_id(size=5) }}</p>
+            <p>{{ form.cost.label }} <br> {{ form.cost(size=5) }}</p>
+            <p>{{ form.submit() }}</p>
+        </form>
+{% endblock %}

@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+{% block main %}
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Type</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+        {% for school in schools %}
+            {% if loop.index % 2 == 0 %}
+                <tr class="even_row">
+            {% else %}
+                <tr class="odd_row">
+            {% endif %}
+                    <td><A href="/schools/{{ school.id }}">{{ school.id }}</A></td>
+                    <td>{{ school.name }}</td>
+                    <td>{{ school.address }}</td>
+                    <td>{{ school._type }}</td>
+                    <td>{{ school.status }}</td>
+                    <td>
+                        <button type="button" class="button" onclick=confirmed_action("{{ url_for('delete_school', id=school.id) }}")>delete</button>
+                        &nbsp;
+                        <A href="/schools/{{ school.id }}/cost">cost</A>
+                        &nbsp;
+                        <A href="/schools/{{ school.id }}/routes">routes</A>
+                    </td>
+                </tr>
+        {% endfor %}
+    </table>
+    <p />
+    <button type="button" class="button" onclick=simple_action("{{ url_for('create_school') }}")>Create School</button>
+    &nbsp;
+    <button type="button" class="button" onclick=simple_action("{{ url_for('signout') }}")>Sign Out</button>
+    <script type="text/javascript">
+        function simple_action(target) {
+            window.location = target
+        }
+
+        function confirmed_action(target) {
+            if (confirm('Are you sure?')) {
+                window.location = target
+            }
+        }
+    </script>
+{% endblock %}
