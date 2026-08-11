@@ -132,7 +132,7 @@ At this stage, you are not expected to write automated tests. Instead, you shoul
 
 |Functionality Tested|Date|Time|Result|
 |--|--|--|--|
-|Sign Up|99/99/23|99:99|passed|
+|Sign Up|99/99/26|99:99|passed|
 |...|...|...|...|
 
 # Deployment Phase
