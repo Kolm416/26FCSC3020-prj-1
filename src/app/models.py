@@ -1,7 +1,7 @@
 '''
 CSC3020 - Software Engineering Fundamentals
 Instructor: Thyago Mota
-Student(s):
+Student(s): Leigha Lennon
 Description: Project 1 - Schools
 '''
 
