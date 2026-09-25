@@ -60,9 +60,10 @@ Estimate a schedule for this project by completing the table below.
 
 Assign roles to each team member by completing the table below. A member may take on more than one role.
 
-|Name|Role(s)|
+|Name|Role(s):manager,developer,tester,documenter|
 |--|--|
-|name|manager,developer,tester,documenter|
+|Juvia Archuleta|Roles:|
+|Leigha Lennon|Roles:modeler|
 
 # Modeling Phase
 
