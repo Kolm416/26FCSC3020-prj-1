@@ -8,12 +8,23 @@ class User {
     passwd : LargeBinary
 }
 
+enum SchoolType {
+    elementary
+    middle
+    high
+}
+
+enum SchoolStatus {
+    open
+    closed
+}
+
 class School {
     id : Integer
     name : String
     address : String
-    type : Integer
-    status : Integer
+    type : SchoolType
+    status : SchoolStatus
 }
 
 class TransportationCost {
