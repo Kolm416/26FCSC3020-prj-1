@@ -50,11 +50,11 @@ Estimate a schedule for this project by completing the table below.
 
 |Phase|Task|Start|End|Duration|Deliverable|
 |---|---|---|---|---|---|
-|Modeling|Requirements Analysis|mm/dd/26|mm/dd/26|99 days|Use Case Diagram|
-|Modeling|Data Model|mm/dd/26|mm/dd/26|99 days|Class Diagram|
-|Construction|Coding|mm/dd/26|mm/dd/26|99 days|Code|
-|Construction|Testing|mm/dd/26|mm/dd/26|99 days|Test Report|
-|Deployment|Delivery|mm/dd/26|mm/dd/26|99 days|Final Commit/Push|
+|Modeling|Requirements Analysis|mm/dd/26|mm/dd/26|1 day|Use Case Diagram|
+|Modeling|Data Model|mm/dd/26|mm/dd/26|1 day|Class Diagram|
+|Construction|Coding|mm/dd/26|mm/dd/26|11 days|Code|
+|Construction|Testing|mm/dd/26|mm/dd/26|6 days|Test Report|
+|Deployment|Delivery|mm/dd/26|mm/dd/26|2 days|Final Commit/Push|
 
 ## Team Roles
 
@@ -62,8 +62,8 @@ Assign roles to each team member by completing the table below. A member may tak
 
 |Name|Role(s):manager,developer,tester,documenter|
 |--|--|
-|Juvia Archuleta|Roles:|
-|Leigha Lennon|Roles: Modeler|
+|Juvia Archuleta|Roles: Planner|
+|Leigha Lennon|Roles: Planner, Modeler|
 
 # Modeling Phase
 
