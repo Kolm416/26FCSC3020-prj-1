@@ -134,6 +134,14 @@ At this stage, you are not expected to write automated tests. Instead, you shoul
 |Functionality Tested|Date|Time|Result|
 |--|--|--|--|
 |Sign Up|99/99/26|99:99|passed|
+|Login|99/99/26|99:99|passed|
+|List Schools|99/99/26|99:99|passed|
+|Create School|99/99/26|99:99|passed|
+|Update School|99/99/26|99:99|passed|
+|Delete School|99/99/26|99:99|passed|
+|Transportation Cost|99/99/26|99:99|passed|
+|Retrieve Optimal Routes|99/99/26|99:99|passed|
+|Sign Out|99/99/26|99:99|passed|
 |...|...|...|...|
 
 # Deployment Phase
