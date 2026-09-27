@@ -142,7 +142,6 @@ At this stage, you are not expected to write automated tests. Instead, you shoul
 |Transportation Cost|99/99/26|99:99|passed|
 |Retrieve Optimal Routes|99/99/26|99:99|passed|
 |Sign Out|99/99/26|99:99|passed|
-|...|...|...|...|
 
 # Deployment Phase
 
