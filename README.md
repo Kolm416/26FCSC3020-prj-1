@@ -62,8 +62,8 @@ Assign roles to each team member by completing the table below. A member may tak
 
 |Name|Role(s):manager,developer,tester,documenter|
 |--|--|
-|Juvia Archuleta|Roles: Planner|
-|Leigha Lennon|Roles: Planner, Modeler|
+|Juvia Archuleta|Roles: Manager, Planner, Developer|
+|Leigha Lennon|Roles: Planner, Modeler, Tester|
 
 # Modeling Phase
 
