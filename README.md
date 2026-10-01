@@ -162,7 +162,29 @@ Please reflect on both your own contributions and those of your teammates using 
 * Decision-Making: Decision-making is the process of choosing the best course of action among available options to achieve a goal. It provides direction and keeps the team moving forward.
 
 ```
-Your Name: <Last_First_Name>
+Your Name: Archuleta_Juvia
+```
+
+Rate your collaboration using: 
+* 1 (strongly disagree)
+* 2 (disagree)
+* 3 (neutral)
+* 4 (agree) or 
+* 5 (strongly agree)
+
+```
+[  ] I made meaningful contributions to the project.
+[  ] My contributions were valuable to the team’s success.
+[  ] I supported collaboration within the team.
+[  ] I took initiative and responsibility for my work.
+[  ] I communicated effectively and was dependable.
+[  ] I was present and available to the team as expected.
+[  ] I fostered trust by being reliable, transparent, and respectful in all interactions.
+[  ] I helped resolve disagreements constructively, promoting understanding and collaboration.
+[  ] I contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
+```
+```
+Your Name: Lennon_Leigha
 ```
 
 Rate your collaboration using: 
@@ -185,7 +207,7 @@ Rate your collaboration using:
 ```
 
 ```
-Teamate's Name: <Last_First_Name>
+Teamate's Name: Archuleta_Juvia
 ```
 
 Rate their collaboration using: 
@@ -208,7 +230,7 @@ Rate their collaboration using:
 ```
 
 ```
-Teammate's Name: <Last_First_Name>
+Teammate's Name: Lennon_Leigha
 ```
 
 Rate their collaboration using: 
