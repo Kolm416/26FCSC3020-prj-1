@@ -195,12 +195,12 @@ Rate your collaboration using:
 * 5 (strongly agree)
 
 ```
-[ 4 ] I made meaningful contributions to the project.
+[ 5 ] I made meaningful contributions to the project.
 [ 4 ] My contributions were valuable to the team’s success.
 [ 5 ] I supported collaboration within the team.
 [ 5 ] I took initiative and responsibility for my work.
 [ 4 ] I communicated effectively and was dependable.
-[ 4 ] I was present and available to the team as expected.
+[ 5 ] I was present and available to the team as expected.
 [ 4 ] I fostered trust by being reliable, transparent, and respectful in all interactions.
 [ 4 ] I helped resolve disagreements constructively, promoting understanding and collaboration.
 [ 4 ] I contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
