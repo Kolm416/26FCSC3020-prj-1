@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Flask / SQLite database
+*.db
+
+# VS Code
+.vscode/
