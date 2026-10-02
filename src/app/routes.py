@@ -117,17 +117,23 @@ def update_school(id):
             school_status = 1
         elif form.status.data == 'Closed':
             school_status = 0
+
+        school.name = form.name.data
+        school.address = form.address.data
+        school._type = school_type
+        school.status = school_status
+        
         db.session.commit()
         return redirect(url_for('list_schools'))
     # Fill in the form
     if request.method == 'GET':
         form.name.data = school.name
         form.address.data = school.address
-        if school.type == 0:
+        if school._type == 0:
             form.type.data = 'elementary'
-        elif school.type == 1:
+        elif school._type == 1:
             form.type.data = 'middle'
-        elif school.type == 2:
+        elif school._type == 2:
             form.type.data = 'high school'
         if school.status == 1:
             form.status.data = 'Open'
@@ -141,7 +147,7 @@ def update_school(id):
 @app.route('/schools/<int:id>/delete', methods=['GET', 'POST'])
 def delete_school(id): 
     school = db.session.get(School, id)
-    if school is not None:
+    if school is None:
         return redirect(url_for('list_schools'))
     db.session.delete(school)
     db.session.commit()
