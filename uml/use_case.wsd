@@ -1,32 +1,3 @@
 @startuml use_case
 
-actor User
-
-rectangle "Schools Web Application" {
-
-    usecase "Sign Up" as UC1
-    usecase "Log In" as UC2
-    usecase "Log Out" as UC3
-
-    usecase "List Schools" as UC4
-    usecase "Create School" as UC5
-    usecase "Update School" as UC6
-    usecase "Delete School" as UC7
-
-    usecase "Update Transportation Cost" as UC8
-    usecase "Retrieve Optimal Resource\nDistribution Plan" as UC9
-}
-
-User --> UC1
-User --> UC2
-User --> UC3
-
-User --> UC4
-User --> UC5
-User --> UC6
-User --> UC7
-
-User --> UC8
-User --> UC9
-
 @enduml
