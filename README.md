@@ -173,15 +173,15 @@ Rate your collaboration using:
 * 5 (strongly agree)
 
 ```
-[  ] I made meaningful contributions to the project.
-[  ] My contributions were valuable to the team’s success.
-[  ] I supported collaboration within the team.
-[  ] I took initiative and responsibility for my work.
-[  ] I communicated effectively and was dependable.
-[  ] I was present and available to the team as expected.
-[  ] I fostered trust by being reliable, transparent, and respectful in all interactions.
-[  ] I helped resolve disagreements constructively, promoting understanding and collaboration.
-[  ] I contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
+[ 5 ] I made meaningful contributions to the project.
+[ 5 ] My contributions were valuable to the team’s success.
+[ 5 ] I supported collaboration within the team.
+[ 5 ] I took initiative and responsibility for my work.
+[ 4 ] I communicated effectively and was dependable.
+[ 5 ] I was present and available to the team as expected.
+[ 5 ] I fostered trust by being reliable, transparent, and respectful in all interactions.
+[ 4 ] I helped resolve disagreements constructively, promoting understanding and collaboration.
+[ 5 ] I contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
 ```
 ```
 Your Name: Lennon_Leigha
@@ -241,15 +241,15 @@ Rate their collaboration using:
 * 5 (strongly agree)
 
 ```
-[  ] The team member made meaningful contributions to the project.
-[  ] The team member  contributions were valuable to the team’s success.
-[  ] The team member supported collaboration within the team.
-[  ] The team member took initiative and responsibility for their work.
-[  ] The team member communicated effectively and was dependable.
-[  ] The team member was present and available to the team as expected.
-[  ] The team member fostered trust by being reliable, transparent, and respectful in all interactions.
-[  ] The team member helped resolve disagreements constructively, promoting understanding and collaboration.
-[  ] The team member contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
+[ 5 ] The team member made meaningful contributions to the project.
+[ 5 ] The team member  contributions were valuable to the team’s success.
+[ 5 ] The team member supported collaboration within the team.
+[ 5 ] The team member took initiative and responsibility for their work.
+[ 5 ] The team member communicated effectively and was dependable.
+[ 5 ] The team member was present and available to the team as expected.
+[ 5 ] The team member fostered trust by being reliable, transparent, and respectful in all interactions.
+[ 5 ] The team member helped resolve disagreements constructively, promoting understanding and collaboration.
+[ 5 ] The team member contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
 ```
 
 # Submission
