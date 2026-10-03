@@ -50,11 +50,11 @@ Estimate a schedule for this project by completing the table below.
 
 |Phase|Task|Start|End|Duration|Deliverable|
 |---|---|---|---|---|---|
-|Modeling|Requirements Analysis|mm/dd/26|mm/dd/26|99 days|Use Case Diagram|
-|Modeling|Data Model|mm/dd/26|mm/dd/26|99 days|Class Diagram|
-|Construction|Coding|mm/dd/26|mm/dd/26|99 days|Code|
-|Construction|Testing|mm/dd/26|mm/dd/26|99 days|Test Report|
-|Deployment|Delivery|mm/dd/26|mm/dd/26|99 days|Final Commit/Push|
+|Modeling|Requirements Analysis|09/14/26|09/14/26|1 day|Use Case Diagram|
+|Modeling|Data Model|09/15/26|09/15/26|1 day|Class Diagram|
+|Construction|Coding|09/16/26|09/26/26|11 days|Code|
+|Construction|Testing|09/27/26|10/02/26|6 days|Test Report|
+|Deployment|Delivery|10/02/26|10/04/26|2 days|Final Commit/Push|
 
 ## Team Roles
 
@@ -62,8 +62,8 @@ Assign roles to each team member by completing the table below. A member may tak
 
 |Name|Role(s):manager,developer,tester,documenter|
 |--|--|
-|Juvia Archuleta|Roles:|
-|Leigha Lennon|Roles: Modeler|
+|Juvia Archuleta|Roles: Manager, Planner, Developer|
+|Leigha Lennon|Roles: Planner, Modeler, Tester|
 
 # Modeling Phase
 
@@ -133,8 +133,15 @@ At this stage, you are not expected to write automated tests. Instead, you shoul
 
 |Functionality Tested|Date|Time|Result|
 |--|--|--|--|
-|Sign Up|99/99/26|99:99|passed|
-|...|...|...|...|
+|Sign Up|10/02/26|10:44|passed|
+|Login|10/02/26|10:45|passed|
+|List Schools|10/02/26|10:46|passed|
+|Create School|10/02/26|10:48|passed|
+|Update School|10/02/26|11:04|passed|
+|Delete School|10/02/26|11:07|passed|
+|Transportation Cost|10/02/26|11:11|passed|
+|Retrieve Optimal Routes|10/02/26|11:12|passed|
+|Sign Out|10/02/26|11:13|passed|
 
 # Deployment Phase
 
@@ -155,7 +162,7 @@ Please reflect on both your own contributions and those of your teammates using 
 * Decision-Making: Decision-making is the process of choosing the best course of action among available options to achieve a goal. It provides direction and keeps the team moving forward.
 
 ```
-Your Name: <Last_First_Name>
+Your Name: Archuleta_Juvia
 ```
 
 Rate your collaboration using: 
@@ -166,19 +173,41 @@ Rate your collaboration using:
 * 5 (strongly agree)
 
 ```
-[  ] I made meaningful contributions to the project.
-[  ] My contributions were valuable to the team’s success.
-[  ] I supported collaboration within the team.
-[  ] I took initiative and responsibility for my work.
-[  ] I communicated effectively and was dependable.
-[  ] I was present and available to the team as expected.
-[  ] I fostered trust by being reliable, transparent, and respectful in all interactions.
-[  ] I helped resolve disagreements constructively, promoting understanding and collaboration.
-[  ] I contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
+[ 5 ] I made meaningful contributions to the project.
+[ 5 ] My contributions were valuable to the team’s success.
+[ 5 ] I supported collaboration within the team.
+[ 5 ] I took initiative and responsibility for my work.
+[ 4 ] I communicated effectively and was dependable.
+[ 5 ] I was present and available to the team as expected.
+[ 5 ] I fostered trust by being reliable, transparent, and respectful in all interactions.
+[ 4 ] I helped resolve disagreements constructively, promoting understanding and collaboration.
+[ 5 ] I contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
+```
+```
+Your Name: Lennon_Leigha
+```
+
+Rate your collaboration using: 
+* 1 (strongly disagree)
+* 2 (disagree)
+* 3 (neutral)
+* 4 (agree) or 
+* 5 (strongly agree)
+
+```
+[ 5 ] I made meaningful contributions to the project.
+[ 4 ] My contributions were valuable to the team’s success.
+[ 5 ] I supported collaboration within the team.
+[ 5 ] I took initiative and responsibility for my work.
+[ 4 ] I communicated effectively and was dependable.
+[ 5 ] I was present and available to the team as expected.
+[ 4 ] I fostered trust by being reliable, transparent, and respectful in all interactions.
+[ 4 ] I helped resolve disagreements constructively, promoting understanding and collaboration.
+[ 4 ] I contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
 ```
 
 ```
-Teamate's Name: <Last_First_Name>
+Teamate's Name: Archuleta_Juvia
 ```
 
 Rate their collaboration using: 
@@ -189,19 +218,19 @@ Rate their collaboration using:
 * 5 (strongly agree)
 
 ```
-[  ] The team member made meaningful contributions to the project.
-[  ] The team member  contributions were valuable to the team’s success.
-[  ] The team member supported collaboration within the team.
-[  ] The team member took initiative and responsibility for my work.
-[  ] The team member communicated effectively and was dependable.
-[  ] The team member was present and available to the team as expected.
-[  ] The team member fostered trust by being reliable, transparent, and respectful in all interactions.
-[  ] The team member helped resolve disagreements constructively, promoting understanding and collaboration.
-[  ] The team member contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
+[ 5 ] The team member made meaningful contributions to the project.
+[ 5 ] The team member  contributions were valuable to the team’s success.
+[ 5 ] The team member supported collaboration within the team.
+[ 5 ] The team member took initiative and responsibility for their work.
+[ 5 ] The team member communicated effectively and was dependable.
+[ 5 ] The team member was present and available to the team as expected.
+[ 5 ] The team member fostered trust by being reliable, transparent, and respectful in all interactions.
+[ 5 ] The team member helped resolve disagreements constructively, promoting understanding and collaboration.
+[ 5 ] The team member contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
 ```
 
 ```
-Teammate's Name: <Last_First_Name>
+Teammate's Name: Lennon_Leigha
 ```
 
 Rate their collaboration using: 
@@ -212,15 +241,15 @@ Rate their collaboration using:
 * 5 (strongly agree)
 
 ```
-[  ] The team member made meaningful contributions to the project.
-[  ] The team member  contributions were valuable to the team’s success.
-[  ] The team member supported collaboration within the team.
-[  ] The team member took initiative and responsibility for my work.
-[  ] The team member communicated effectively and was dependable.
-[  ] The team member was present and available to the team as expected.
-[  ] The team member fostered trust by being reliable, transparent, and respectful in all interactions.
-[  ] The team member helped resolve disagreements constructively, promoting understanding and collaboration.
-[  ] The team member contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
+[ 5 ] The team member made meaningful contributions to the project.
+[ 5 ] The team member  contributions were valuable to the team’s success.
+[ 5 ] The team member supported collaboration within the team.
+[ 5 ] The team member took initiative and responsibility for their work.
+[ 5 ] The team member communicated effectively and was dependable.
+[ 5 ] The team member was present and available to the team as expected.
+[ 5 ] The team member fostered trust by being reliable, transparent, and respectful in all interactions.
+[ 5 ] The team member helped resolve disagreements constructively, promoting understanding and collaboration.
+[ 5 ] The team member contributed to or led decision-making processes with clarity, fairness, and consideration of team input.
 ```
 
 # Submission
